@@ -1,2 +1,0 @@
-# azyth.github.io
-website
