@@ -1530,6 +1530,10 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
+	.center {
+		text-align: center;
+	}
+
 /* Image */
 
 	.image {
