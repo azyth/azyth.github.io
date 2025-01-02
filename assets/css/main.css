@@ -2195,7 +2195,7 @@ input, select, textarea {
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
-		padding: 14em 0 14em 0;
+		padding: 2em 0 24em 0;
 		text-align: center;
 		color: #fff;
 	}
@@ -2219,7 +2219,7 @@ input, select, textarea {
 		}
 
 		#header footer {
-			padding-top: 1.5em;
+			padding-top: 10em;
 		}
 
 /* Main Sections */
