@@ -2063,7 +2063,7 @@ input, select, textarea {
 	.dark input[type="reset"],
 	.dark button,
 	.dark .button {
-		background: rgba(255, 255, 255, 0.5);
+		background: rgba(255, 255, 255, 0.75);
 		box-shadow: inset 0 0 0 1px #fff;
 		color: #a4505c;
 		/* color: #fff; */
