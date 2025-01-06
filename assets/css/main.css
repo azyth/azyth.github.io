@@ -2206,6 +2206,7 @@ input, select, textarea {
 			color: #802633;
 			line-height: 1.25em;
 			margin-bottom: 0;
+			text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff;
 		}
 
 		#header header p {
@@ -2216,6 +2217,7 @@ input, select, textarea {
 			font-size: 1.25em;
 			line-height: 1.5em;
 			text-align: center;
+			text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff;
 		}
 
 		#header footer {
