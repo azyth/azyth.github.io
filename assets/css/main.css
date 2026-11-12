@@ -46,6 +46,8 @@ blockquote, q {
 		content: none;
 	}
 
+
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -2510,4 +2512,9 @@ input, select, textarea {
 					font-size: 1.25em;
 				}
 
+				
+			}
+	.fit img {
+		width: 100%;
+		height: auto;
 	}
